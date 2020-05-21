@@ -1,0 +1,26 @@
+{
+  "name": "bigcryptokittymomma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "web3": "^1.2.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js > output.txt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kissgyorgy97/BigCryptoKittyMomma.git"
+  },
+  "author": "Kiss György László",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kissgyorgy97/BigCryptoKittyMomma/issues"
+  },
+  "homepage": "https://github.com/kissgyorgy97/BigCryptoKittyMomma#readme"
+}
