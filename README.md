@@ -15,4 +15,4 @@
 
 >visit localhost:5200
 
-> enter two block numbers( example: startingBlock=6607985 and endingBlock=7028323)
+> enter two block numbers( example: startingBlock=6607985 and endingBlock=7028323) Keep in mind, response time is around 17s
